@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<!-- These are required keys. Do not modify them. -->
+	
+	<key>Backward_Compatible_Version</key>
+	<integer>1</integer>
+	<key>Current_Version</key>
+	<integer>1</integer>
+	<key>hkey_local_machine\</key>
+	<string>&lt;&lt;MacRegNoValue&gt;&gt;</string>
+	<key>hkey_local_machine\software\</key>
+	<string>&lt;&lt;MacRegNoValue&gt;&gt;</string>
+	<key>hkey_local_machine\software\policies\</key>
+	<string>&lt;&lt;MacRegNoValue&gt;&gt;</string>
+	<key>hkey_local_machine\software\policies\microsoft\</key>
+	<string>&lt;&lt;MacRegNoValue&gt;&gt;</string>
+	<key>hkey_local_machine\software\policies\microsoft\communicator\</key>
+	<string>&lt;&lt;MacRegNoValue&gt;&gt;</string>
+	<key>hkey_local_machine\software\policies\microsoft\communicator\configurationmode</key>
+	<integer>1</integer>
+	
+	<!-- Modify the string values below with your company's Lync server addresses. -->
+	
+	<key>hkey_local_machine\software\policies\microsoft\communicator\serveraddressexternal</key>
+	<string>im.talkingmoose.net</string>
+	<key>hkey_local_machine\software\policies\microsoft\communicator\serveraddressinternal</key>
+	<string>im.talkingmoose.pvt</string>
+	
+</dict>
+</plist>
