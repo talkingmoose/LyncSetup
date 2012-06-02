@@ -12,11 +12,11 @@ This script may be freely modified for personal or commercial purposes but may n
 If you find this script useful or have ideas for improving it, please let me know. It is written for Lync for Mac 2011.
 
 
-The need for LyncSetup 1.0
+The need for LyncSetup 1.2
 
-LyncSetup 1.0 enables an administrator to pre-populate a user's Lync login information so that the user doesn't need to do this. When used with the MicrosoftLyncRegistrationDB.plist file to pre-populate server addresses, it will eliminate the user from having to configure his Lync client and allow him to simply enter his password and log in to his account the first time he launches the application.
+LyncSetup 1.2 enables an administrator to pre-populate a user's Lync login information so that the user doesn't need to do this. When used with the MicrosoftLyncRegistrationDB.plist file to pre-populate server addresses, it will eliminate the user from having to configure his Lync client and allow him to simply enter his password and log in to his account the first time he launches the application.
 
-The LyncSetup-1.0 script does the following:
+The LyncSetup-1.2 script does the following:
 
 	▪	Populates the user name from his Mac OS X login information
 	▪	Populates the user email address from Active Directory
@@ -26,14 +26,14 @@ The LyncSetup-1.0 script does the following:
 	▪	Disables prompt for Telephone
 
 
-How to install LyncSetup 1.0
+How to install LyncSetup 1.2
 
 	1.	Copy the LyncSetup-1.2.sh file to a commonly accessible location on each user's workstation such as /Library/talkingmoose/Scripts.
 	2.	Copy the net.talkingmoose.LyncSetup.plist file to /Library/LaunchAgents.
 	3.	Copy the MicrosoftLyncRegistrationDB.plist file to /Library/Preferences.
 
 
-How to use LyncSetup 1.0
+How to use LyncSetup 1.2
 
 Before installing the script open the LyncSetup-1.2.sh script using TextEdit or Bare Bones Software's BBEdit or free TextWrangler application. Change the "TALKINGMOOSE" NetBIOS domain name to your own company's NetBIOS domain name and save the file.
 
