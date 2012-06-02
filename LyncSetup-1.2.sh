@@ -19,7 +19,7 @@
 #                                                                                #
 #   Instructions                                                                 #
 #   Locate the NETBIOSDOMAIN line below and enter your company's NetBIOS domain  #
-#   name. Save the script as "LyncSetup-1.1.sh" into each computer's             #
+#   name. Save the script as "LyncSetup-1.2.sh" into each computer's             #
 #   /Library/talkingmoose/Scripts folder or any location of your choosing.       #
 #   Modify the net.talkingmoose.LyncSetup.plist launchd item to point to this    #
 #   script and place it into /Library/LaunchAgents.                              #
