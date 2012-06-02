@@ -28,18 +28,18 @@ The LyncSetup-1.0 script does the following:
 
 How to install LyncSetup 1.0
 
-	1.	Copy the LyncSetup-1.0.sh file to a commonly accessible location on each user's workstation such as /Library/talkingmoose/Scripts.
+	1.	Copy the LyncSetup-1.2.sh file to a commonly accessible location on each user's workstation such as /Library/talkingmoose/Scripts.
 	2.	Copy the net.talkingmoose.LyncSetup.plist file to /Library/LaunchAgents.
 	3.	Copy the MicrosoftLyncRegistrationDB.plist file to /Library/Preferences.
 
 
 How to use LyncSetup 1.0
 
-Before installing the script open the LyncSetup-1.0.sh script using TextEdit or Bare Bones Software's BBEdit or free TextWrangler application. Change the "TALKINGMOOSE" NetBIOS domain name to your own company's NetBIOS domain name and save the file.
+Before installing the script open the LyncSetup-1.2.sh script using TextEdit or Bare Bones Software's BBEdit or free TextWrangler application. Change the "TALKINGMOOSE" NetBIOS domain name to your own company's NetBIOS domain name and save the file.
 
 The script file must be executable on each machine:
 
-sudo chmod +x /Library/talkingmoose/Scripts/LyncSetup-1.0.sh
+sudo chmod +x /Library/talkingmoose/Scripts/LyncSetup-1.2.sh
 
 Use the same text editor to edit the MicrosoftLyncRegistrationDB.plist file and enter the correct server addresses:
 
